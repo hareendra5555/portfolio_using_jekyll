@@ -1,0 +1,17 @@
+title: "Hareendra Sri Nag Nerusu"
+email: "your-email@example.com"
+description: "Cloud Computing | Distributed Systems | Backend Development"
+baseurl: ""
+url: "https://yourwebsite.com"
+theme: minima
+
+# Navigation Links
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Social Links (Modify as needed)
+social_links:
+  github: "https://github.com/hareendra5555"
+  linkedin: "https://www.linkedin.com/in/hareendra5555"
