@@ -1,8 +1,8 @@
 title: "Hareendra Sri Nag Nerusu"
 email: "your-email@example.com"
 description: "Cloud Computing | Distributed Systems | Backend Development"
-baseurl: ""
-url: "https://yourwebsite.com"
+baseurl: "/portfolio_using_jekyll"
+url: "https://hareendra5555.github.io"
 theme: minima
 
 # Navigation Links
